@@ -1,0 +1,27 @@
+.btn {
+    color:white;
+    border-radius: 3px;
+}
+.btn-success {
+    background-color: green;
+}
+
+.btn-danger {
+    background-color: red;
+}
+
+.btn-warnign {
+    background-color: orange;
+}
+
+.btn-info {
+    background-color: blue;
+}
+
+.btn-dark {
+    background-color: #959595 !important;
+}
+
+.btn-contet-white {
+    color:white;
+}

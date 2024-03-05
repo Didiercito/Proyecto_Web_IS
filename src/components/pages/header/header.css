@@ -1,0 +1,22 @@
+#header {
+    background-color: #D9D9D9;
+}
+
+#header .global-search {
+    width: 350px;
+    margin-right: 2%;
+}
+
+.global-search input {
+    height: 20px;
+}
+.brand {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.global-menu{
+    padding: 10px;
+    margin: 10px;
+}
